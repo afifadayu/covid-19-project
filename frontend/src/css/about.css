@@ -1,0 +1,32 @@
+.sizing-header {
+  width: 100%;
+}
+.background {
+  width: 280px;
+  height: 28px;
+  justify-content: center;
+  margin-left: 38px;
+}
+
+.background-long {
+  margin-top: -1.52%;
+  width: 96%;
+  background-color: #f7f7f7;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.caption {
+  margin: 50px;
+  margin-bottom: 60px;
+  text-align: left;
+  color:black;
+  font-size: 13pt;
+}
+
+h1 {
+  text-align: left;
+  margin-top: 20px;
+  font-weight: 600;
+  font-weight: 600;
+}
